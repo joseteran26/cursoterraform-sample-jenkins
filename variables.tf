@@ -1,9 +1,9 @@
 variable "aws_key_path" {
-  default = "/home/usuario/psepulveda-ireland.pem"
+  default = "/home/usuario/jtr2-ireland.pem"
 }
 
 variable "aws_key_name" {
-  default = "psepulveda-ireland"
+  default = "jtr2-ireland"
 }
 
 variable "aws_region" {
